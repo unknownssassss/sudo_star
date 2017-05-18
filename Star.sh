@@ -51,7 +51,7 @@ fi
 #  --wait-dialog-list/-W                send dialog_list query and wait for answer before reading input
 #  --disable-colors/-C                  disable color output
 #  --disable-readline/-R                disable readline
-#  --alert/-A                           enable bell notifications
+#  --alert/-A            r               enable bell notifications
 #  --daemonize/-d                       daemon mode
 #  --logname/-L <log-name>              log file name
 #  --username/-U <user-name>            change uid after start
